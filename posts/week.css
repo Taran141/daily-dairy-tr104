@@ -73,6 +73,14 @@ code {
   font-family: 'Courier New', Courier, monospace;
   font-size: 0.95rem;
 }
+.week-report {
+  margin-bottom: 1.5rem;
+}
+
+.week-report h2 {
+  border-bottom: 2px solid #0044cc;
+  padding-bottom: 0.3rem;
+}
 
 /* Responsive adjustments */
 @media (max-width: 600px) {
